@@ -1,0 +1,2 @@
+Class atau kelas adalah sekelompok objek yang memiliki kesamaan. Sedangkan, object atau objek adalah suatu entitas baik real maupun abstrak yang dapat diidentifikasi dan direpresentasikan. Dengan kata lain, object juga merupakan bagian dari suatu class.
+Method sendiri ada dua jenis: (1) void dan (2) return. void method adalah method yang tidak mengembalikan suatu nilai. return method adalah method yang mengembalikan nilai. Object adalah representasi dari class.
